@@ -3,9 +3,6 @@
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://account.microsoft.com/profile/?refd=outlook.live.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesinha_rcr/?next=%2F)
 
-![Ricardo Gihub Status](https://github-readme-stats.vercel.app/api?username=devRicardoR&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRicardoR&layout=donut-vertical)](https://github.com/devRicardoR/github-readme-stats)
 
 ### Tecnologias do meu dia a dia 👨‍💻
 
